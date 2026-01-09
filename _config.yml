@@ -14,9 +14,9 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Portfolio # the main title
+title: Tessier Yanis # the main title
 
-tagline: student in web developement # it will display as the subtitle
+tagline: Full-stack web development student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
