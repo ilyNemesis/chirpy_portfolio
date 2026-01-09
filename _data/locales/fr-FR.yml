@@ -12,8 +12,9 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: Accueil
   categories: Projets
-  archives: Contact
+  contact: Contact
   about: À propos
+  test: Test
   
 
 # the text displayed in the search bar & search results
