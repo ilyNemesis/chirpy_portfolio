@@ -110,7 +110,7 @@ order: 3
         <div class="info">
             <input type="text" placeholder="Nom" class="name">
             <input type="text" placeholder="Email" class="mail">
-        </div>
+        </div> 
         <textarea placeholder="Votre message" cols="40" rows="5" class="msg"></textarea>
         <button type="button">Envoyer</button>
     </form>
